@@ -1,0 +1,239 @@
+{
+    "success": true,
+    "message": "Data",
+    "responseObject": {
+        "parameter": [
+            {
+                "pk_content_parameter_id": 1,
+                "title": "SELAMAT DATANG DI",
+                "subtitle": "SUGITY SPEAK UP HOTLINE",
+                "description": "Your Voice for a Better Workplace",
+                "image_path": ""
+            },
+            {
+                "pk_content_parameter_id": 2,
+                "title": "Definisi Sugity Speak Up Hotline",
+                "subtitle": "",
+                "description": "Mekanisme penyampaian pengaduan dugaan tindak pidana tertentu yang telah terjadi atau akan terjadi yang melibatkan pegawai dan orang lain yang dilakukan dalam organisasi tempatnya bekerja, dimana pelapor bukan merupakan bagian dari pelaku kejahatan yang dilaporkannya.",
+                "image_path": ""
+            },
+            {
+                "pk_content_parameter_id": 3,
+                "title": "Footer",
+                "subtitle": "",
+                "description": "Jika Anda melihat atau mengetahui dugaan Tindak Pidana Korupsi atau bentuk pelanggaran lainnya yang dilakukan pegawai Sugity, silahkan melapor ke Inspektorat Sugity Speak Up Hotline. Jika laporan anda memenuhi syarat/kriteria, maka laporan Anda akan diproses lebih lanjut.",
+                "image_path": ""
+            },
+            {
+                "pk_content_parameter_id": 4,
+                "title": "Logo Full",
+                "subtitle": "",
+                "description": "",
+                "image_path": "Konten Parameter/Images-2024-12-09T02-31-05-095Z.webp"
+            },
+            {
+                "pk_content_parameter_id": 5,
+                "title": "Logo",
+                "subtitle": "",
+                "description": "",
+                "image_path": "Konten Parameter/Images-2024-12-09T02-31-19-072Z.png"
+            },
+            {
+                "pk_content_parameter_id": 6,
+                "title": "Website SpeakUp",
+                "subtitle": "",
+                "description": "http://speakup.sugity.co.id:3001",
+                "image_path": ""
+            }
+        ],
+        "group": [
+            {
+                "pk_content_group_id": 1,
+                "title": "KRITERIA PENGADUAN",
+                "subtitle": "",
+                "description": "Jika Anda melihat atau mengetahui dugaan Tindak Pidana Korupsi atau bentuk pelanggaran lainnya yang dilakukan pegawai Sugity, silahkan melapor ke Inspektorat Sugity Speak Up Hotline. Jika laporan anda memenuhi syarat/kriteria, maka laporan Anda akan diproses lebih lanjut."
+            },
+            {
+                "pk_content_group_id": 2,
+                "title": "Tata cara Pengaduan",
+                "subtitle": "",
+                "description": "Berikut ini adalah tatacara dalam membuat pengaduan melalui Speak Up, yaitu :"
+            },
+            {
+                "pk_content_group_id": 4,
+                "title": "Slider",
+                "subtitle": "",
+                "description": ""
+            },
+            {
+                "pk_content_group_id": 3,
+                "title": "Media Pelaporan",
+                "subtitle": "",
+                "description": "Hanya dibuka oleh TOP Management level!"
+            }
+        ],
+        "detail": [
+            {
+                "pk_content_detail_id": 16,
+                "title": "slider-3",
+                "subtitle": "",
+                "description": "",
+                "icon": "",
+                "image_path": "Konten Detail/Images-2024-12-09T01-10-19-045Z.jpeg",
+                "fk_content_group_id": 4,
+                "no_sequence": 3
+            },
+            {
+                "pk_content_detail_id": 15,
+                "title": "slider-2",
+                "subtitle": "",
+                "description": "",
+                "icon": "",
+                "image_path": "Konten Detail/Images-2024-12-09T01-10-38-251Z.jpeg",
+                "fk_content_group_id": 4,
+                "no_sequence": 2
+            },
+            {
+                "pk_content_detail_id": 14,
+                "title": "slider-1",
+                "subtitle": "",
+                "description": "",
+                "icon": "",
+                "image_path": "Konten Detail/Images-2024-12-09T01-10-51-955Z.jpeg",
+                "fk_content_group_id": 4,
+                "no_sequence": 1
+            },
+            {
+                "pk_content_detail_id": 3,
+                "title": "WHERE",
+                "subtitle": "",
+                "description": "Dimana tempat terjadinya perbuatan tersebut dilakukan.",
+                "icon": "https://raw.githubusercontent.com/mesa-abdilah/assets_cdn/4b6f0676570091b5e821e010d0b550958a6f09b5/speakup/where.svg",
+                "image_path": "Konten Detail/Images-2024-12-08T13-27-08-252Z.svg",
+                "fk_content_group_id": 1,
+                "no_sequence": 3
+            },
+            {
+                "pk_content_detail_id": 4,
+                "title": "WHEN",
+                "subtitle": "",
+                "description": "Kapan waktu perbuatan tersebut dilakukan.",
+                "icon": "https://raw.githubusercontent.com/mesa-abdilah/assets_cdn/4b6f0676570091b5e821e010d0b550958a6f09b5/speakup/when.svg",
+                "image_path": "Konten Detail/Images-2024-12-08T13-28-03-344Z.svg",
+                "fk_content_group_id": 1,
+                "no_sequence": 4
+            },
+            {
+                "pk_content_detail_id": 5,
+                "title": "HOW",
+                "subtitle": "",
+                "description": "Bagaimana cara perbuatan tersebut dilakukan (modus, cara, dan sebagainya).",
+                "icon": "https://raw.githubusercontent.com/mesa-abdilah/assets_cdn/4b6f0676570091b5e821e010d0b550958a6f09b5/speakup/how.svg",
+                "image_path": "Konten Detail/Images-2024-12-08T13-28-30-581Z.svg",
+                "fk_content_group_id": 1,
+                "no_sequence": 5
+            },
+            {
+                "pk_content_detail_id": 6,
+                "title": "EVIDENCE",
+                "subtitle": "",
+                "description": "Dilengkapi dengan bukti permulaan (data, dokumen, gambar, dan rekaman) yang mendukung.",
+                "icon": "https://raw.githubusercontent.com/mesa-abdilah/assets_cdn/4b6f0676570091b5e821e010d0b550958a6f09b5/speakup/evidence.svg",
+                "image_path": "Konten Detail/Images-2024-12-08T13-30-25-018Z.svg",
+                "fk_content_group_id": 1,
+                "no_sequence": 6
+            },
+            {
+                "pk_content_detail_id": 1,
+                "title": "WHAT",
+                "subtitle": "",
+                "description": "Apa perbuatan berindikasi Tindak Pidana Korupsi/pelanggaran yang diketahui.",
+                "icon": "https://raw.githubusercontent.com/mesa-abdilah/assets_cdn/4b6f0676570091b5e821e010d0b550958a6f09b5/speakup/what.svg",
+                "image_path": "Konten Detail/Images-2024-12-08T13-25-21-195Z.svg",
+                "fk_content_group_id": 1,
+                "no_sequence": 1
+            },
+            {
+                "pk_content_detail_id": 2,
+                "title": "WHO",
+                "subtitle": "",
+                "description": "Siapa yang bertanggungjawab/terlibat dan terkait dalam perbuatan tersebut.",
+                "icon": "https://raw.githubusercontent.com/mesa-abdilah/assets_cdn/4b6f0676570091b5e821e010d0b550958a6f09b5/speakup/who.svg",
+                "image_path": "Konten Detail/Images-2024-12-08T13-26-14-507Z.svg",
+                "fk_content_group_id": 1,
+                "no_sequence": 2
+            },
+            {
+                "pk_content_detail_id": 7,
+                "title": "PERIKSA LAPORAN ANDA",
+                "subtitle": "",
+                "description": "Sebelum melaporkan pengaduan Anda di Speak Up, terlebih dahulu periksa kelengkapan pengaduan Anda apakah telah sesuai dengan kriteria pengaduan yang telah ditetapkan.",
+                "icon": "https://raw.githubusercontent.com/mesa-abdilah/assets_cdn/a74b1b704de1194df5ba9dc437529dea23aac5b4/speakup/periksa.svg",
+                "image_path": "Konten Detail/Images-2024-12-08T13-31-50-614Z.svg",
+                "fk_content_group_id": 2,
+                "no_sequence": 1
+            },
+            {
+                "pk_content_detail_id": 8,
+                "title": "ISI FORMULIR PENGADUAN",
+                "subtitle": "",
+                "description": "Klik tombol 'Speak Up Now' yang terdapat di bagian navigasi, masuk dengan akun karyawan dan lanjutkan dengan mengisi formulir pengaduan yang telah disediakan dan lanjutkan dengan menekan tombol 'Kirim Pengaduan'.",
+                "icon": "https://raw.githubusercontent.com/mesa-abdilah/assets_cdn/a74b1b704de1194df5ba9dc437529dea23aac5b4/speakup/formulir.svg",
+                "image_path": "Konten Detail/Images-2024-12-08T13-32-19-775Z.svg",
+                "fk_content_group_id": 2,
+                "no_sequence": 2
+            },
+            {
+                "pk_content_detail_id": 9,
+                "title": "SIMPAN KODE PENGADUAN",
+                "subtitle": "",
+                "description": "Setelah mengirim pengaduan, Anda akan mendapatkan kode pengaduan yang memastikan Anda dapat memonitoring proses pengaduan secara real time. Simpan dan jaga kerahasiaan kode pelapor tersebut.",
+                "icon": "https://raw.githubusercontent.com/mesa-abdilah/assets_cdn/a74b1b704de1194df5ba9dc437529dea23aac5b4/speakup/kode.svg",
+                "image_path": "Konten Detail/Images-2024-12-08T13-32-52-130Z.svg",
+                "fk_content_group_id": 2,
+                "no_sequence": 3
+            },
+            {
+                "pk_content_detail_id": 10,
+                "title": "PANTAU PENGADUAN",
+                "subtitle": "",
+                "description": "Anda dapat memantau pengaduan yang pernah dikirim atau membuat pengaduan baru.",
+                "icon": "https://raw.githubusercontent.com/mesa-abdilah/assets_cdn/a74b1b704de1194df5ba9dc437529dea23aac5b4/speakup/pantau.svg",
+                "image_path": "Konten Detail/Images-2024-12-08T13-33-58-715Z.svg",
+                "fk_content_group_id": 2,
+                "no_sequence": 4
+            },
+            {
+                "pk_content_detail_id": 11,
+                "title": "Email",
+                "subtitle": "mailto:sugity.hotline@sugity.co.id",
+                "description": "sugity.hotline@sugity.co.id",
+                "icon": "https://raw.githubusercontent.com/mesa-abdilah/assets_cdn/4b6f0676570091b5e821e010d0b550958a6f09b5/speakup/email.svg",
+                "image_path": "Konten Detail/Images-2024-12-08T14-00-03-407Z.svg",
+                "fk_content_group_id": 3,
+                "no_sequence": 1
+            },
+            {
+                "pk_content_detail_id": 12,
+                "title": "WhatsApp",
+                "subtitle": "https://wa.me/08119937276",
+                "description": "0811-9937-276",
+                "icon": "https://raw.githubusercontent.com/mesa-abdilah/assets_cdn/4b6f0676570091b5e821e010d0b550958a6f09b5/speakup/whatsapp.svg",
+                "image_path": "Konten Detail/Images-2024-12-08T14-02-23-171Z.svg",
+                "fk_content_group_id": 3,
+                "no_sequence": 2
+            },
+            {
+                "pk_content_detail_id": 13,
+                "title": "Website",
+                "subtitle": "http://speakup.sugity.co.id:3001/",
+                "description": "http://speakup.sugity.co.id",
+                "icon": "https://raw.githubusercontent.com/mesa-abdilah/assets_cdn/4b6f0676570091b5e821e010d0b550958a6f09b5/speakup/website.svg",
+                "image_path": "Konten Detail/Images-2024-12-09T02-16-26-604Z.svg",
+                "fk_content_group_id": 3,
+                "no_sequence": 3
+            }
+        ]
+    },
+    "statusCode": 200
+}
